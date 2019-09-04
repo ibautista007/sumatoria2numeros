@@ -20,4 +20,4 @@ class Solution:
                 return [valor[target-nums[i]],i]
             
             
-        return (valor)
+   
